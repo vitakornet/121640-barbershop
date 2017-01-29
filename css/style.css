@@ -1,8 +1,8 @@
 body {
-  font-family: "PT Sans Narrow", sans-serif;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
   font-size: 14px;
-  font-weight: normal;
-  line-height: normal;
+  font-weight: 700;
+  line-height: 24px;
   text-transform: uppercase;
   color: #000;
 }
